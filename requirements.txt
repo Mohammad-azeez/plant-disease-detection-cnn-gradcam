@@ -1,5 +1,5 @@
 streamlit
-tensorflow
+tensorflow-cpu
 shap
 lime
 opencv-python-headless
@@ -7,4 +7,4 @@ matplotlib
 seaborn
 gdown
 pillow
-numpy
+numpy<2.0.0
